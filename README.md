@@ -19,3 +19,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Sobre mim
+
+💻 Estudante de Ciência da Computação | Backend (Java, Spring Boot) | Buscando Estágio 
+
+Sou Gabriel Micael Henrique, estudante do 7º período de Ciência da Computação na Universidade Federal de Alfenas. Tenho grande interesse em desenvolvimento Backend, especialmente com Java e Spring Boot, e estou em busca da minha primeira experiência profissional. 
+
+Nascido em Alfenas e criado em Areado, valorizo a tranquilidade e concentração, por isso procuro uma oportunidade remota para aliar um ambiente produtivo ao meu crescimento profissional. Tenho facilidade em aprender, sou curioso e gosto de explorar novas tecnologias.
