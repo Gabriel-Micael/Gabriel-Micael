@@ -9,7 +9,7 @@
 <div class="stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Micael&show_icons=true&theme=dark" alt="GitHub Stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Micael&layout=compact&theme=dark" alt="Linguagens mais usadas">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Micael&theme=dark" alt="Streak de Contribuições">
+        <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Micael&theme=dark" alt="Streak de Contribuições"!-->
 </div>
 
 ## Linguagens que mais uso:
