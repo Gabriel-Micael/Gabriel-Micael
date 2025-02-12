@@ -1,4 +1,4 @@
-# Olá sou Gabriel e seja bem-vindo ao meu perfil!
+# Olá, sou Gabriel e seja bem-vindo ao meu perfil!
 
 ## Entre em contato:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmicaelhenrique@gmail.com)
