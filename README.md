@@ -24,6 +24,6 @@
 
 💻 **Computer Science Student | Backend (Java, Spring Boot) | Seeking Internship**  
 
-I’m Gabriel Micael Henrique, a 7th-semester Computer Science student at the Federal University of Alfenas. I have a strong interest in Backend development, particularly with Java and Spring Boot, and I am looking for my first professional experience.  
+I’m Gabriel Micael Henrique, a 8th-semester Computer Science student at the Federal University of Alfenas. I have a strong interest in Backend development, particularly with Java and Spring Boot, and I am looking for my first professional experience.  
 
 Born in Alfenas and raised in Areado, I value focus and a calm environment, which is why I seek a remote opportunity that fosters both productivity and professional growth. I am a fast learner, naturally curious, and enjoy exploring new technologies.
