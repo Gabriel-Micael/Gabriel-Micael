@@ -7,9 +7,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-micael-0566a6161/)
 
 <div class="stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Micael&show_icons=true&theme=dark" alt="GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Micael&layout=compact&theme=dark" alt="Linguagens mais usadas">
-        <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Micael&theme=dark" alt="Streak de Contribuições"!-->
+    <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Micael&show_icons=true&theme=dark&cache_seconds=1800" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Micael&layout=compact&theme=dark&cache_seconds=1800" alt="Linguagens mais usadas">
 </div>
 
 ## Languages I use the most:
